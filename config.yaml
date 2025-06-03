@@ -1,0 +1,12 @@
+jira:
+    jira_server: "https://agile-jira.wellsfargo.net/rest/api/3"
+    email: "Ajay.S.Dabi@wellsfargo.com"
+    jira_token: ""
+github:
+    github_server: "https://github.wellsfargo.com/api/v3"
+    github_token: ""
+    github_repo: "app-wmcrd/wmcrd-CreditRisk"
+file:
+    file_name: ["pdr_STG_Subm_14Q_A7_ACCT","pdr_PB_Steps_byPBID_Get","pdr_PB_Steps_Get"]
+date: "2025-05-22"
+release_name: ["Aventador_BUSCRT_PROD", "Aventador_WMCRD_PROD"]
